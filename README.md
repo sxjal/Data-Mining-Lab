@@ -1,4 +1,6 @@
-### Sajal
+# Data Mining Lab - B.Tech CSE | Third Year
+
+### Prepared by - Sajal
 
 1. To find mean, median, mode, and standard deviation. Draw a box-plot by using these,
 2. Univariate, Bivariate, and Multivariate Analysis using Histograms, Q-Q plot, Bar Graphs,  Scatter Plots and Heatmaps,
