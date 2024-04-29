@@ -1,5 +1,5 @@
 # Data Mining Lab - B.Tech CSE | Third Year
-
+## To run the code, simply download the file and open it in google colab/ vscode/ jupyter, etc.
 ### Prepared by - Sajal
 
 1. To find mean, median, mode, and standard deviation. Draw a box-plot by using these,
